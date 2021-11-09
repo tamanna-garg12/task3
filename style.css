@@ -16,7 +16,7 @@
 }
 .header h1{
     margin-top:37px;
-    float: right;
+    margin-left:700px ;
 }
 .main{
     margin-top: 2px;
@@ -31,16 +31,16 @@
     width: 100px;
     margin-top: 10px;
     float: left;
-    margin-left: 10px;
+    margin-left: 250px;
     margin-bottom: 10px;
     
 
 
 }
 .main .links{
+    margin-top: 25px;
+    margin-left: 500px;
     
-    margin:27px 80% 10px 40px ;
-    float: left;
 }
     
 
