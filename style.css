@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+table.row1 td{
+    padding:0px 450px 0px 20px;
+
+}
+table.row2{
+    margin-left: auto;
+    margin-right: auto;
+}
+table.row2 .list{
+    list-style: none;
+    margin-right: 20px;
+}
+table.row2 tr td ul li{
+    padding-bottom: 10px;
+}
+table.row2 .link1 {
+    padding-bottom: 10px;
+}
+
